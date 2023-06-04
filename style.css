@@ -61,7 +61,7 @@ width: 800px;
     
 
 }
-.Tweet-button a href {
+.Tweet-button{
     color: hsl(204, 65%, 52%);
     
     height:30px;
