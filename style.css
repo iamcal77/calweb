@@ -61,7 +61,7 @@ width: 800px;
     
 
 }
-.Tweet-button{
+.Tweet-button a href {
     color: hsl(204, 65%, 52%);
     
     height:30px;
@@ -70,4 +70,14 @@ width: 800px;
     margin-left: 15px;
     cursor: pointer;
     border-radius: 5px;
+}
+.fab fa-youtube {
+    width: 24px;
+    height: 24px;
+    fill: red; /* Customize the color */
+}
+ 
+ .youtube-icon {
+    width: 50px;
+    height: 50px;
 }
