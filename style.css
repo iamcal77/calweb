@@ -1,0 +1,73 @@
+.heading1{
+    color: black;
+    margin-left: 10px;
+    font-size: 25px;
+    margin: top 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+    width: 400px;
+    
+}
+.heading1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+img{
+    margin-left:  100px;
+margin-top: 5px;
+width: 800px;
+
+}
+.heading2{
+    color:var(--yt-spec-text-secondary) ;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    
+}
+.stats{
+    color: black;
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.subscribe-button{
+    background-color: rgb(228, 7, 7);
+    color: aliceblue;
+    margin-left: 50px;
+    border:rgb(228, 7, 7) ;
+    border-radius:15px;
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    
+}
+.subscribe-button:hover{
+    background-color: black;
+}
+.join-button{
+    background-color: white;
+    color: #5bb3ee;
+    width: 50px;
+    height: 30px;
+    margin-left: 15px;
+    cursor: pointer;
+    border-color: #5bb3ee;
+    border-radius: 5px;
+    
+
+}
+.Tweet-button{
+    color: hsl(204, 65%, 52%);
+    
+    height:30px;
+    width: 50px;
+    border-color: #5bb3ee;
+    margin-left: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
